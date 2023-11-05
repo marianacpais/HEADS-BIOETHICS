@@ -1,29 +1,29 @@
 baseURL = "https://marianacpais.github.io/heads-bioethics/"
 
-languageCode = "en-us"
-DefaultContentLanguage = "en"
+languageCode = "pt-pt"
+DefaultContentLanguage = "pt"
 title = "BIOETHICS"
 theme = "hugo-theme-techdoc"
 
 hasCJKLanguage = true
 metaDataFormat = "yaml"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
 [params]
 
     # Source Code repository section
-    description = "put your description"
-    github_repository = "https://github.com/thingsym/hugo-theme-techdoc"
+    description = "HEADS BIOETHICS Summary"
+    github_repository = "https://github.com/marianacpais/HEADS-BIOETHICS"
     version = "1.0.0"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
-    github_doc_repository_path = ""
-    github_doc_repository_branch = "master"
+    github_doc_repository = "https://github.com/marianacpais/HEADS-BIOETHICS/tree/main/pages"
+    github_doc_repository_path = "https://github.com/marianacpais/HEADS-BIOETHICS/"
+    github_doc_repository_branch = "main"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
@@ -76,17 +76,17 @@ enableMissingTranslationPlaceholders = false
         url = "/"
         weight = 1
         identifier = 'home'
-        pre = "<i class='fa fa-heart'></i>&nbsp;"
+        # pre = "<i class='fa fa-heart'></i>&nbsp;"
 
-    [[menu.main]]
-        name = "Twitter"
-        url = "https://twitter.com/thingsym"
-        weight = 2
-        identifier = 'twitter'
-        pre = "<b>pre!</b> "
-        post = " <b>post!</b>"
-        [menu.main.params]
-          class = 'twitter-menu-item'
+    # [[menu.main]]
+    #     name = "Twitter"
+    #     url = "https://twitter.com/thingsym"
+    #     weight = 2
+    #     identifier = 'twitter'
+    #     pre = "<b>pre!</b> "
+    #     post = " <b>post!</b>"
+    #     [menu.main.params]
+    #       class = 'twitter-menu-item'
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
