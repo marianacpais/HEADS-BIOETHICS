@@ -6,6 +6,8 @@ draft = false
 
 Prof. Rui Nunes
 
+Introdução à Bioética
+
 # Introdução à Bioética
 
 - Van Potter introduziu o termo "bioética" em 1970 na literatura científica internacional 📚.
