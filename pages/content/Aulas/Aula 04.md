@@ -27,7 +27,7 @@ Prof.a Cíntia Águas
 para o bom cientista?
   - Adesão ativa aos princípios éticos e às normas profissionais que são essenciais para uma prática responsável da atividade da investigação.
 
-![Alt text](image-1.png)
+![Alt text](/static/image-1.png)
 
 - Os **valores** mostram o que as pessoas e as comunidades
 consideram importante; as **normas** dizem o que tem de  ser feito para concretizar determinados valores.
@@ -148,4 +148,4 @@ doi: https://doi.org/10.1038/d41586-019-03959-6
 - **Princípio 5 - Contribuições Diversas** 🤝📚
 - Valorizar uma série de outras contribuições para a pesquisa e atividade acadêmica responsáveis, como revisão por pares para concessão de subsídios e publicações, mentoria, divulgação e troca de conhecimento.
 
-![Alt text](image.png)
+![Alt text](/image.png)
